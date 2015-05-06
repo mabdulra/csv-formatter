@@ -1,0 +1,58 @@
+body
+{
+    font-family: Arial, sans-serif;
+    text-align:  center;
+}
+
+h1,h2,h3
+{
+    margin: 0px;
+    padding:0px;
+}
+
+form
+{
+    background: #ddf;
+}
+
+a
+{
+    text-decoration: none;
+    color: #33f;
+    border-bottom: 1px dashed #33f;
+}
+a:hover
+{
+    color: #99f;
+    border-bottom: 1px solid #99f;
+}
+
+#container
+{
+    text-align: center;
+}
+
+.left
+{
+    text-align: left;
+}
+
+table
+{
+    width: 100%;
+}
+
+th
+{
+    background: #99f;
+}
+
+.rowodd
+{
+    background: #eef;
+}
+
+.roweven
+{
+    background: #ddf;
+}
